@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^16.2.12",
     "@angular/platform-browser-dynamic": "^16.2.12",
     "@angular/router": "^16.2.12",
+    "angular-cli-ghpages": "^2.0.1",
     "bootstrap": "^5.3.3",
     "ngx-infinite-scroll": "^18.0.0",
     "rxjs": "~7.8.0",
